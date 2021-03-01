@@ -11,7 +11,7 @@ import {
 } from 'react-icons/fa';
 
 const Section = styled.section`
-  background: #000d1a;
+  background: #224229;
   color: #fff;
   width: 100%;
   min-height: 600px;

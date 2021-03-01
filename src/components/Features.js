@@ -4,7 +4,7 @@ import { Button } from './Button';
 import ImageOne from '../images/1feat.jpeg';
 
 const Section = styled.section`
-  background: #000d1a;
+  background: #eee2d4;
   padding: 12rem 0rem;
   display: flex;
   flex-direction: column;
