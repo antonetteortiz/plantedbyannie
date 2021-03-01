@@ -139,7 +139,7 @@ const Hero = ({ slides }) => {
         setCurrent(current => (current === length - 1 ? 0 : current + 1));
       };
 
-      timeout.current = setTimeout(nextSlide, 3000);
+      timeout.current = setTimeout(nextSlide, 5500);
 
       return function() {
         if (timeout.current) {
@@ -201,13 +201,13 @@ const Hero = ({ slides }) => {
                       <h1 data-aos='fade-down' data-aos-duration='600'>
                         {slide.title}
                       </h1>
-                      <p
+                      {/* <p
                         data-aos='fade-down'
                         data-aos-duration='600'
                         data-aos-delay='200'
                       >
                         {slide.price}
-                      </p>
+                      </p> */}
                       <Button
                         data-aos='zoom-out'
                         data-aos-duration='500'
