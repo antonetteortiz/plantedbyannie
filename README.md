@@ -9,7 +9,7 @@
 
 
 ## General Info ℹ
-Web application featuring plants and their care
+Web application featuring plants, how to care for them and suggestions on where to buy.
 
 Visit live site here : [Planted By Annie](https://plantedbyannie.vercel.app/)
 
